@@ -223,7 +223,7 @@ LC_TELEPHONE=en_US.UTF-8
 TZ=UTC
 
 DEBFULLNAME="brian m. carlson"
-EMAIL="sandals@crustytoothpaste.net"
+EMAIL="bk2204@github.com"
 DEBEMAIL="$EMAIL"
 GIT_PAGER="less -FRSX"
 PAGER="less -R"
