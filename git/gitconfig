@@ -1,6 +1,6 @@
 [user]
 	name = brian m. carlson
-	signingkey = 082CE68A9DBC65FB83D1C3917C0C49628887A281!
+	signingkey = bk2204@github.com
 [alias]
 	# Checkout, recursing into submodules, however that's supported.
 	co = "!f() { if git checkout -h | grep -qs recurse-submodules; \
